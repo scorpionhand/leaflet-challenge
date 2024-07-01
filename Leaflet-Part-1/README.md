@@ -31,6 +31,6 @@ This report is updated every minute.
 
 :pencil2:
 **HTML file:**
-  - /index.html
+  - index.html
 
 ---
