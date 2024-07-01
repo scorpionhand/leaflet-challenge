@@ -25,7 +25,13 @@ This report is updated every minute.
 :pencil2:
 **Javascript file:**
   - /Leaflet-Part-1/static/js/logic.js
+
+:pencil2:
 **CSS file:**
   - /Leaflet-Part-1/static/css/style.css
+
+:pencil2:
+**HTML file:**
+  - /Leaflet-Part-1/index.html
 
 ---
